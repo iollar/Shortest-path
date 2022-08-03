@@ -1,0 +1,26 @@
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\posy2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Курсач.MainForm.resources
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\Курсач.MainForm.resources
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\posy2\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\posy2\Desktop\курсач\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\posy2\Desktop\курсач\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\posy2\Desktop\курсач ДМ 2семестр 2019\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\posy2\Desktop\курсач ДМ 2семестр 2019\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\posy2\Desktop\1курс\курсач ДМ 2семестр 2019\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\posy2\Desktop\1курс\курсач ДМ 2семестр 2019\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
